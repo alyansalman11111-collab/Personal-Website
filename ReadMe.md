@@ -1,12 +1,22 @@
-# Personal-Website
+Personal Portfolio Website (HTML, CSS)
 
-This is my responsive personal professional profile website that I built using HTML and CSS. It shows my skills, education, projects and certifications and contact information.
+This is a responsive personal portfolio website built using HTML and CSS. I created it to present my academic background, skills, projects, and certifications in a clean and organized way.
 
-1. Responsive design for desktop and mobile devices
-2. Smooth scrolling navigation
-3. CSS variables
-4. Organized sections
+Features
+Works well on both desktop and mobile devices
+Clear sections for education, skills, projects, and certifications
+Smooth navigation between sections
+Uses CSS variables for consistent styling
+Simple and clean layout with semantic HTML
+Technologies Used
+HTML5
+CSS3
+Live Demo
 
-I used HTML5 and CSS3 technology to build this website To view the website, you can click on the following link: https://alyansalman11111-collab.github.io/Personal-Website/
+https://alyansalman11111-collab.github.io/Personal-Website/
 
-Thanks!
+What I Learned
+How to structure a multi-section website using HTML
+How CSS helps control layout, spacing, and design consistency
+How to improve readability and overall UI design
+How to organize and publish a project using GitHub
